@@ -1,0 +1,71 @@
+Entering testCount...
+Test Case 1 passed.
+Test Case 2 passed.
+Test Case 3 passed.
+Test Case 4 passed.
+Test Case 5 passed.
+...
+testCount completed.
+
+Entering testIsEmpty...
+Test Case 1 passed.
+Test Case 2 passed.
+Test Case 3 passed.
+Test Case 4 passed.
+Test Case 5 passed.
+...
+testIsEmpty completed.
+
+Entering testPrintKeys...
+Test Case 1 passed.
+Test Case 2 passed.
+Test Case 3 passed.
+Test Case 4 passed.
+Test Case 5 passed.
+...
+testPrintKeys completed.
+
+Entering testContains...
+Test Case 1 passed.
+Test Case 2 passed.
+Test Case 3 passed.
+Test Case 4 passed.
+Test Case 5 passed.
+...
+testContains completed.
+
+Entering testRemove...
+Test Case 1 passed.
+Test Case 2 passed.
+Test Case 3 passed.
+Test Case 4 passed.
+Test Case 5 passed.
+...
+testRemove completed.
+
+Entering testGetKey...
+Test Case 1 passed.
+Test Case 2 passed.
+Test Case 3 passed.
+Test Case 4 passed.
+Test Case 5 passed.
+...
+testGetKey completed.
+
+Entering testGetValue...
+Test Case 1 passed.
+Test Case 2 passed.
+Test Case 3 passed.
+Test Case 4 passed.
+Test Case 5 passed.
+...
+testGetValue completed.
+
+Entering testInsert...
+Test Case 1 passed.
+Test Case 2 passed.
+Test Case 3 passed.
+Test Case 4 passed.
+Test Case 5 passed.
+...
+testInsert completed.
